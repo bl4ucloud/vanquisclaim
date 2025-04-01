@@ -1,2 +1,0 @@
-# vanquisclaim
-My awesome repository
